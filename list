@@ -1,0 +1,180 @@
+!Universal
+!/js/*.js
+##A[id*="Ad"]
+##LI[id*="Ad"]
+##DIV[id*="ad_"]
+##DIV[class^="Ad"]
+##TD[class="plc plm"]
+##DIV[class="a_p"]
+##DIV[class="a_pt"]
+##DIV[class="a_pb"]
+##DIV[class="a_pr"]
+##DIV[class="bm lk"]
+##DIV[class="bm bml pbn"]
+##DIV[class*="zhuanfa"]
+##DIV[id="p_btn"][class="mtw mbm cl"]
+##DIV[id^="bdshare"]
+##DIV[class^="bshare"]
+##DIV[id^="bdimgshare"]
+##DIV[class^="bdimgshare"]
+##LABEL[class^="bdimgshare"]
+##A[href$="connect.php?mod=config"]
+!163
+163.com##A[id="btn-retweet"]
+163.com##DIV[class="correct-container"]
+163.com##DIV[class="endMore"]
+163.com##DIV[class="m-adv ztag"]
+163.com##DIV[class="ntshare-wrap"]
+163.com##DIV[class="yodao-entry c-entry"]
+163.com##DIV[id*="wb-article-sharewraper"][class*="wb-article-sharewraper wb-article-share"]
+163.com##DIV[id="wb-wraper"][class="wb-wraper"]
+163.com##SPAN[class="left wbLogin-after-con"]
+163.com##SPAN[id="wbLoginAfter"]
+!36kr
+36kr.com##DIV[class="eight columns"]
+!3e
+3e-online.com##DIV[class^="jiathis_style"]
+!51voa
+51voa.com##DIV[class="rss"]
+51voa.com##DIV[id="alignRight"]
+!baidu
+baidu.com##DIV[class="slide mb-10 cpro-down"]
+baidu.com##DIV[class^="cms-slide mb-10 cms"]
+baidu.com##DIV[id*="wgt-share"]
+!cnbeta
+cnbeta.com##A[href="http://t.qq.com/Aoouch"]
+cnbeta.com##A[href="http://user.qzone.qq.com/706290416"]
+cnbeta.com##A[href="http://weibo.com/cnbeta"]
+cnbeta.com##A[href="http://www.cnbeta.com/commentrss.php"]
+cnbeta.com##CENTER
+cnbeta.com##DIV[id="h_right"]
+cnbeta.com##IMG[src^="http://img.cnbeta.com/share"]
+!duyidu
+duyidu.com##DIV[class="header"]
+!ele
+ele.me##A[class="promotion_banner_eleme_gzcj"]
+!engadget
+engadget.com##CENTER
+engadget.com##DIV[class="postmeta"]
+!facebook
+facebook.com##DIV[id="appsNav"][class="homeSideNav"]
+!gfan
+gfan.com##DIV[class="gbm"]
+gfan.com##DL[class="rate"]
+gfan.com##LI[class="l1"]
+gfan.com##LI[id="mn_N49af"]
+gfan.com##TD[class="d3 a1"]
+gfan.com##A[href*="id=sina_xweibo_x2"]
+gfan.com##A[href^="http://pay.gfan.com"]
+gfan.com##DIV[class="fastlg_fm y"]
+!guofs
+guofs.com##DIV[class="wumii-hook"]
+!hiapk
+hiapk.com##DIV[class="a_cn"]
+!iplaysoft
+iplaysoft.com##CENTER
+iplaysoft.com##DIV[class="item_title"]
+iplaysoft.com##DIV[class="widget_c widget_c_white"]
+iplaysoft.com##DIV[id="ft_contain"]
+iplaysoft.com##DIV[id="section_info"]
+iplaysoft.com##DIV[id="share_toolbar_wrapper"]
+iplaysoft.com##LI[id="nav_taobao"]
+iplaysoft.com##SPAN[class="crumb_ad"]
+iplaysoft.com##UL[id="section_event"]
+!kafan
+kafan.cn##A[href$="statfrom=login_simple"]
+kafan.cn##DIV[class="fastlg_fm y"]
+kafan.cn##DIV[class="friendLink"]
+!miui
+miui.com##IMG[src$="transparent.gif"]
+miui.com##IMG[src$="weiboicon16.png"]
+!mydigit
+mydigit.cn##A[href="read.php?tid=350367"]
+mydigit.cn##DIV[class="radio mb10"]
+mydigit.cn##DIV[class="shareAll cc mb10"]
+mydigit.cn##DIV[class="userOper"]
+mydigit.cn##DIV[id="popup"][class="t"]
+mydigit.cn##TD[class="h"]
+!pchouse
+pchouse.com.cn##DIV[class="dBoxA friend"]
+pchouse.com.cn##DIV[class^="sina"]
+pchouse.com.cn##DIV[class^="artOpenShare"]
+!pconline
+pconline.com.cn##DIV[class^="artOpenShare"]
+pconline.com.cn##DIV[class="main sixer clearfix"]
+!pcpop
+pcpop.com##UL[id^="addiv"]
+pcpop.com##DIV[id^="addiv"]
+pcpop.com##UL[class="gg"]
+!renren
+renren.com##ARTICLE[id="site-menu-apps-nav"][class="site-menu-apps"]
+renren.com##DIV[class="main"]
+renren.com##SPAN[class="icons"]
+!right
+right.com.cn##DIV[id="frame59Q46y_left"][class="column frame-1-c"]
+!shoudian
+shoudian.org##DIV[class="wb a_h"]
+shoudian.org##DIV[id="frame8b3qF8"][class="frame move-span cl frame-1"]
+!smzdm
+smzdm.com##DIV[class="rightPicBox"]
+smzdm.com##DIV[class="rightShare"]
+smzdm.com##DIV[class="topRightShare"]
+smzdm.com##DIV[id="nologin"][class="login"]
+smzdm.com##DIV[id="text-20"][class="rightBox widget_text"]
+smzdm.com##DIV[id="text-22"][class="rightBox widget_text"]
+smzdm.com##DIV[id="text-23"][class="rightBox widget_text"]
+smzdm.com##FOOTER
+!softjie
+softjie.cn##A[id="nav_key_up_61"]
+softjie.cn##DIV[class="h"]
+softjie.cn##DIV[class="sharelink2 cc"]
+softjie.cn##TBODY[id="cate_children"]
+softjie.cn##TR[class="vt"]
+softjie.cn##DIV[class="loginWays fr"]
+softjie.cn##SPAN[class="mr20"]
+!soufun
+soufun.com##DIV[class="details_share"]
+soufun.com##DIV[id="imgShare"][class="textfxbox"]
+soufun.com##UL[class="zynr_btns"]
+!taobao
+taobao.com##DL[class="mt-recommend-app"]
+taobao.com##DL[class="mt-menu-item mt-recent-app"]
+taobao.com##DIV[class="mt-userinfo-fan "]
+taobao.com##DIV[class="mt-post-info-box"]
+taobao.com##DIV[class="mt-tips"]
+taobao.com##DIV[id="J_gaveMyShareCopy"]
+taobao.com##DIV[class="feed-empty"]
+taobao.com##LI[id="ks-switchable61"]
+!vmall
+vmall.com##DIV[id="freshmanTask"][class="ug_link png24"]
+vmall.com##DIV[id="side"][class="panel-recommended"]
+vmall.com##SPAN[class="shareico"]
+vmall.com##SPAN[id="hotkw"][class="link-key"]
+!weibo
+weibo.com##A[href^="http://app.weibo.com"]
+weibo.com##A[href^="http://game.weibo.com"]
+!williamlong
+williamlong.info##DIV[id="divMisc"][class="function"]
+williamlong.info##DIV[id="divSearchPanel"][class="function"]
+!win8mi
+win8mi.com##A[href="http://win8china.com/windows8master/"]
+win8mi.com##CENTER
+win8mi.com##DIV[class="ds-login-buttons"]
+!xda
+xda.cn##A[href="http://bbs.xda.cn/thread-11230322-1-1.html"]
+xda.cn##DIV[class="dgr2"]
+xda.cn##DIV[class="duoge_l1"]
+xda.cn##DIV[class="flexslider"]
+xda.cn##DIV[class="jiathis_share"]
+xda.cn##DIV[class="lk"]
+xda.cn##DIV[class="tmenur"]
+xda.cn##DIV[id="post_btn"][class="post_btn"]
+xda.cn##DIV[id="sitefocus"][class="focus"]
+xda.cn##DIV[id="xda_feedback_box"]
+!xdowns
+xdowns.com##DIV[class="bd5"]
+xdowns.com##IMG[src="images/bbs_btn.gif"]
+!!!!
+pcpop.com##UL[id^="addiv"]
+pcpop.com##DIV[id^="addiv"]
+pcpop.com##UL[class="gg"]
